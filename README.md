@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Matias Jaliff
-#### I am Full-stack Developer
+#### I am a Full-stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-jaliff/?locale=en_US)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/matiasjaliff)
