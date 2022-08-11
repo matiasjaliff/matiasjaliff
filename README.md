@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Matias Jaliff
 #### I am a Full-stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-jaliff/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-jaliff)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/matiasjaliff)
 
 Passionate about the study and implementation of creative solutions. Broad engineering and resource management experience in the energy industry, trained in web development at an awesome immersive bootcamp in 2022, and looking for challenges to deploy that potential.
