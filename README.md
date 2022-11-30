@@ -10,14 +10,13 @@ I've been deeply interested in web development since I was a kid. After a big jo
 
 As a fan of art, I always look for creative ideas, I admire the work of my colleagues and I pursue the simplest and smartest ways to solve problems. I find beauty in simplicity.
 
-I can work both in the back-end and in the front-end. My core language is JavaScript. I am experienced in Express, Sequelize, Node, React and Redux, among others. I plan to study TypeScript and Angular soon, and Python in the mid-term.
+I can work both in the back-end and in the front-end. My core language is JavaScript / TypeScript. I am experienced in Express, Sequelize, Node, React and Redux, among others. I am a big fan of Next.js too.
 
-**Skills:** HTML | CSS | JavaScript | React | Redux | PostgreSQL | MongoDB | Node | Express
+**Skills:** HTML | CSS | JavaScript | TypeScript | React | Redux | Next | Node | Express | PostgreSQL | MongoDB | Jest | Vitest | Postman
 
-- 🔭 I’m currently working on refactoring my recent projects. 
-- 🌱 I’m currently learning to use some awesome CSS frameworks. 
-- 👯 I’m looking to collaborate on open source projects. 
-- 💬 Ask me about JavaScript, PostgreSQL, React, Express. 
-- ⚡ Fun fact: I coded my first line of JavaScript in 1998. Then I took a 22 years hiatus. 
+- 🔭 I’m currently working on a web catalogue using Sanity as a headless CMS and Next.js for the frontend. 
+- 🌱 I’m currently learning to deploy on AWS. 
+- 👯 I’m looking to collaborate on open source projects.
+- ⚡ Fun fact: I coded my first line of JavaScript in 1998.
 
 ![GitHub metrics](https://metrics.lecoq.io/matiasjaliff)
