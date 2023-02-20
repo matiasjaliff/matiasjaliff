@@ -6,9 +6,9 @@
 
 I am a developer and engineer passionate about the implementation of creative solutions.
 
-I've been deeply interested in web development since I was a kid. After a big journey in the energy industry as engineer and project manager, It's been a while since I came back to my first love, again in the arena of development.
+I've been deeply interested in web development since I was a kid. After a big journey in the energy industry as engineer and project manager.
 
-As a fan of art, I always look for creative ideas, I admire the work of my colleagues and I pursue the simplest and smartest ways to solve problems. I find beauty in simplicity.
+I always look for creative ideas, I admire the work of my colleagues and I pursue the simplest and smartest ways to solve problems. I find beauty in simplicity.
 
 I can work both in the back-end and in the front-end. My core language is JavaScript / TypeScript. I am experienced in Express, Sequelize, Node, React and Redux, among others. I am a big fan of Next.js too.
 
